@@ -1,6 +1,6 @@
 É um sistema web de gerenciamento empresarial, voltado principalmente para o controle de funcionárias, remetentes, destinatários, serviços e encomendas. Utiliza PHP para lógica servidor e Bootstrap para interface responsiva.
 
-###Funcionalidades Principais
+##Funcionalidades Principais
 - Cadastro, listagem, edição e exclusão de funcionários.
 - Cadastro, listagem, edição e exclusão de remetentes.
 - Cadastro, listagem, edição e exclusão de destinatários.
